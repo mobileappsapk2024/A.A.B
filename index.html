@@ -11,6 +11,9 @@
     Fore more details:
     * https://developer.mozilla.org/en-US/docs/Web/HTML/Element/base
   -->
+  <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
+  <meta http-equiv="Pragma" content="no-cache" />
+  <meta http-equiv="Expires" content="0" />
   <base href="/">
 
   <meta charset="UTF-8">
@@ -36,7 +39,7 @@
   <script>
     if ('serviceWorker' in navigator) {
       window.addEventListener('flutter-first-frame', function () {
-        navigator.serviceWorker.register('flutter_service_worker.js?v=4077770686');
+        navigator.serviceWorker.register('flutter_service_worker.js?v=3571168504');
       });
     }
     // Disable right-click. It doesn't work with Flutter, and we have our own internal context menu.
