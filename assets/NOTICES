@@ -1809,6 +1809,10 @@ THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
 OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 --------------------------------------------------------------------------------
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> d023f2cc40edc18a2c7112e541820a9cef56c6cc
 auto_size_text
 
 MIT License
@@ -1834,6 +1838,11 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 --------------------------------------------------------------------------------
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> a78a3547571f3af9bbff73885664a8f78a15ebdc
+>>>>>>> d023f2cc40edc18a2c7112e541820a9cef56c6cc
 boolean_selector
 meta
 
